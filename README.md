@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://laravel.com"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-  <a href="https://https://inertiajs.com"><img align="left" alt="InertiaJS" title="InertiaJS" width="21px" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" /></a>
+  <a href="https://inertiajs.com"><img align="left" alt="InertiaJS" title="InertiaJS" width="21px" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" /></a>
   <br>
   
 ### Github Statistic
