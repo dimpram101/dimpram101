@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dimas Pramudya and i'm currently in my 5th semester in Kalimantan Institute of Techonology.
+I'm Dimas Pramudya and i'm currently in my 5th semester at Kalimantan Institute of Techonology.
 
 <!--
 **dimpram101/dimpram101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
