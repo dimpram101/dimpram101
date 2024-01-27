@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dimas Pramudya and i'm currently in my th semester at Kalimantan Institute of Techonology. Currently staying in Balikpapan, Kalimantan Timur, Indonesia.
+I'm Dimas Pramudya and i'm currently in my 6th semester at Kalimantan Institute of Techonology. Currently staying in Balikpapan, Kalimantan Timur, Indonesia.
 
 <!--
 **dimpram101/dimpram101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
